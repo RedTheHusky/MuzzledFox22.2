@@ -3,6 +3,7 @@ resources/discord/properties/config.properties
 
 # IDEs
 .vscode
+.idea
 
 # Generic
 target
