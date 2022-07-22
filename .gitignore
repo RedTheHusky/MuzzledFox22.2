@@ -1,0 +1,8 @@
+# Config
+resources/discord/properties/config.properties
+
+# IDEs
+.vscode
+
+# Generic
+target
